@@ -1,0 +1,27 @@
+﻿coluna,tipo,faltantes (%),exemplo
+pedido_id,int64,0.0,500000
+data_hora,datetime64[ns],0.0,2024-01-01T11:21:00
+cidade,object,0.0,São Paulo
+bairro,object,0.0,Tatuapé
+restaurante_id,object,0.0,R912
+tipo_cozinha,object,0.0,Hambúrguer
+plataforma,object,0.0,Android
+forma_pagamento,object,0.0,Pix
+cupom,bool,0.0,False
+cliente_novo,bool,0.0,False
+chuva,bool,0.0,False
+distancia_km,float64,4.0,2.68
+tempo_entrega_min,float64,0.41,28.0
+valor_pedido,float64,8.94,45540.0
+taxa_entrega,float64,0.0,7.4
+avaliacao,float64,16.65,4.0
+data,object,0.0,2024-01-01
+mes,int32,0.0,1
+avaliacao_ausente,bool,0.0,False
+faixa_tempo_entrega,category,0.1,Até 30 min
+tempo_invalido,bool,0.0,False
+distancia_invalida,bool,0.0,False
+mediana_cozinha,float64,0.0,58580.0
+razao_valor_cozinha,float64,8.94,0.7773984294981222
+pedido_grande,bool,0.0,False
+razao,float64,8.94,0.7773984294981222
